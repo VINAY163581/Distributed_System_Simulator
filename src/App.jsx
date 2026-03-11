@@ -436,7 +436,7 @@ export default function App() {
             letterSpacing: "1px",
           }}
         >
-          ▶ RUN PIPELINE
+          ▶ RUN
         </button>
 
         <button
